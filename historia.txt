@@ -1,0 +1,4 @@
+Este es el inicio de historia.
+
+Curso de git 
+Platzi
