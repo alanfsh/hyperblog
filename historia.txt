@@ -1,4 +1,4 @@
-Este es el inicio de historia con HTML y CSS.
+Este es el inicio del proyecto con HTML y CSS.
 
-Curso de GIT 2019
+Curso de git 
 Platzi
