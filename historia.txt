@@ -1,4 +1,4 @@
-Este es el inicio de historia.
+Este es el inicio de historia con HTML y CSS.
 
-Curso de GIT 
+Curso de GIT
 Platzi
