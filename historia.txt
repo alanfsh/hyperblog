@@ -1,4 +1,4 @@
 Este es el inicio de historia.
 
-Curso de git 
+Curso de GIT 
 Platzi
