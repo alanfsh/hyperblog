@@ -1,4 +1,6 @@
 Este es el inicio del proyecto con HTML y CSS.
 
+haciendo modificaciones desde Ubuntu.
+
 Curso de git 
 Platzi
