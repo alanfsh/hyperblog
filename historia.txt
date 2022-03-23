@@ -4,5 +4,7 @@ haciendo modificaciones y contribuciones al proyecto desde Ubuntu.
 
 Master 1
 
+Master 2
+
 Curso de git 
 Platzi
