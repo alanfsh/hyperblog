@@ -9,5 +9,6 @@ Lo que explica este curso:
 * Flujo de trabajo
 * Buenas prácticas
 * Como hacer README.md
+* Creado para aprender facilmente
 
 Este es solo un ejemplo de como hacer un readme.md para el hyperblog.
